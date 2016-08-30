@@ -1,0 +1,65 @@
+p{
+	color: white;
+	text-align: center;
+}
+
+.row{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col1{
+	width: 8.33%;
+	background-color: red;
+}
+
+.col2{
+	width: 16.66%;
+	background-color: green;
+}
+
+.col3{
+	width: 25%;
+	background-color: blue;
+}
+
+.col4{
+	width: 32.33%;
+	background-color: #00ffdc;
+}
+
+.col5{
+	width: 41.66%;
+	background-color: fuchsia;
+}
+
+.col6{
+	width: 49.33%;
+	background-color: yellow;
+}
+
+.col7{
+	width: 57.66%;
+	background-color: black;
+}
+
+.col8{
+	width: 66%;
+}
+
+.col9{
+	width: 74.33%;
+}
+
+.col10{
+	width: 82.66%;
+}
+
+.col11{
+	width: 90%;
+}
+
+.col12{
+	width: 100%;
+}
